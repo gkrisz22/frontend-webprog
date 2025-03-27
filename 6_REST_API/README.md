@@ -1,5 +1,7 @@
 # Backend alapok
 
+![rest_api](rest_api.png)
+
 ## Projekt felépítése
 
 ```bash
@@ -153,3 +155,4 @@ app.listen(PORT, () => {
 ```bash
 npm run dev
 ```
+
