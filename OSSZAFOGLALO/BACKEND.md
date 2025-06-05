@@ -6,7 +6,7 @@ Ez a dokumentáció lépésről lépésre vezet végig egy egyszerű, modern Jav
 
 ## 1. Előkészületek
 
-* Telepítsd a [Node.js](https://nodejs.org/) LTS verzijóját.
+* Telepítsd a [Node.js](https://nodejs.org/) LTS verzióját.
 * Ellenőrizd a terminálban:
 
 ```bash
