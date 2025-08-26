@@ -6,6 +6,7 @@ Ez a dokumentáció lépésről lépésre vezet végig egy egyszerű, modern Jav
 
 ## 1. Előkészületek
 
+### Környezet
 * Telepítsd a [Node.js](https://nodejs.org/) LTS verzióját.
 * Ellenőrizd a terminálban:
 
@@ -13,6 +14,10 @@ Ez a dokumentáció lépésről lépésre vezet végig egy egyszerű, modern Jav
 node -v
 npm -v
 ```
+
+### Postman
+* Telepítsd a [Postman](https://www.postman.com/) alkalmazást.
+* Használhatod az API végpontok tesztelésére.
 
 ---
 
